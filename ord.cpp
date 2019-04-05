@@ -11,9 +11,9 @@ using namespace std;
 
 int main()
 {
+	
 char choice='Y';
-
-int order = 1;
+	int order = 1;
 
 int num1=0, num2=0, num3=0, num4=0, num5=0;
 int num_customers;
@@ -27,7 +27,7 @@ cout<<":::::::::::::::::::MENU:::::::::::::::::::\n\n"
      <<"\n Item[2] Ham Burger  		    $5.75 <===\n"
 	 <<"\n Item[3] Italian Sandwich	    $7.25 <===\n"
 	 <<"\n Item[4] Shrimp Nuggets		    $8.95 <===\n"
-	 <<"\n Item[5] Veggie Supreme		    $4.95 <===\n";
+	 <<"\n Item[5] Spall Supreme		    $4.95 <===\n";
 	 
 
          
