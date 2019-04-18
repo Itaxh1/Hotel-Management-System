@@ -4,7 +4,7 @@
 #include <cctype>
 #include <cstdlib>
 #include <iomanip>
-
+#include<stdio.h>
 
 using namespace std;
 
